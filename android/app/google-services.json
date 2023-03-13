@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385712189523",
+    "project_id": "isaa-b66b7",
+    "storage_bucket": "isaa-b66b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385712189523:android:349c723c110050d5aad6a6",
+        "android_client_info": {
+          "package_name": "com.example.isa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385712189523-2sr1offhveq9btua4te3sigui3aunq2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcM03jyj8f6jiB2sLz2CDUaDBR27lnv3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385712189523-2sr1offhveq9btua4te3sigui3aunq2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
